@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bootstrapped App</string>
+    <string name="settings">Edit Location</string>
+    <string name="city_zipcode">Zipcode</string>
+</resources>
